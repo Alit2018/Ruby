@@ -1,0 +1,32 @@
+
+Java’s program #1:
+
+public class Hello {
+	public static void main(String[] args) {
+System,out.println(“Hello, Peter. Let’s Ruby :)”);
+}
+}
+
+
+Ruby’s program version #1:
+
+puts "Hello Hello, Ruby is muuuuuuch simplier! ”
+
+
+
+Java’s version #2: //to sort 5 numbers
+
+import java.util.Arrays:
+public  class Sort {
+	public static void main (String[] args) {
+int[] numbers = {5, 3, 2, 4, 1};
+Arrays.sort(numbers);
+System.out.println(Arrays.toString(numbers));}
+}
+}
+
+
+Ruby’s version #2:    // objects - pieces of data, and methods - snipers of code attached to objects in Ruby
+
+numbers = [5, 3, 2, 4, 1]
+p numbers.sort                   // method named sort
